@@ -10,8 +10,6 @@
 [![PRs Welcome][prs-badge]][prs]
 [![Donate][donate-badge]][donate]
 [![Code of Conduct][coc-badge]][coc]
-[![Roadmap][roadmap-badge]][roadmap]
-[![Examples][examples-badge]][examples]
 
 ## The problem
 
